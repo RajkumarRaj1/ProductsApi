@@ -1,6 +1,10 @@
 const Express = require("express");
 const products = require("./products.json");
 
+// ENVIRONMENT Variables config
+require("dotenv").config();
+
+
 const API_SERVER = Express();
 
 // serving static
@@ -52,8 +56,8 @@ API_SERVER.get("/products/:productId", function (req, res) {
     });
   }
 });
-
-API_SERVER.listen(3000, "localhost", function () {
+// start and listen incoming req to this server
+API_SERVER.listen(process.env.PORT, process.env.HOSTNAME, function () {
   console.log("Server is running on ");
-  console.log(`http://localhost:3000`);
+  console.log(`http://${process.env.HOSTNAME}:${process.env.PORT}`);
 });
