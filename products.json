@@ -1,0 +1,454 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "description": "Ergonomic wireless mouse with adjustable DPI.",
+      "price": 29.99,
+      "category": "Electronics",
+      "stock": 150,
+      "image_url": "https://example.com/images/wireless-mouse.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bluetooth Headphones",
+      "description": "Noise-cancelling Bluetooth over-ear headphones.",
+      "price": 89.99,
+      "category": "Electronics",
+      "stock": 120,
+      "image_url": "https://example.com/images/bluetooth-headphones.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Smartphone",
+      "description": "Latest model smartphone with 128GB storage.",
+      "price": 699.99,
+      "category": "Electronics",
+      "stock": 200,
+      "image_url": "https://example.com/images/smartphone.jpg"
+    },
+    {
+      "id": 4,
+      "name": "LED Desk Lamp",
+      "description": "Adjustable LED desk lamp with touch control.",
+      "price": 49.99,
+      "category": "Home & Office",
+      "stock": 50,
+      "image_url": "https://example.com/images/led-desk-lamp.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Smart Watch",
+      "description": "Fitness tracker with heart rate monitor and GPS.",
+      "price": 199.99,
+      "category": "Electronics",
+      "stock": 75,
+      "image_url": "https://example.com/images/smart-watch.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Laptop Sleeve",
+      "description": "Protective neoprene laptop sleeve, fits up to 15-inch laptops.",
+      "price": 19.99,
+      "category": "Accessories",
+      "stock": 300,
+      "image_url": "https://example.com/images/laptop-sleeve.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Portable Speaker",
+      "description": "Waterproof portable Bluetooth speaker with 10-hour battery life.",
+      "price": 59.99,
+      "category": "Electronics",
+      "stock": 180,
+      "image_url": "https://example.com/images/portable-speaker.jpg"
+    },
+    {
+      "id": 8,
+      "name": "USB-C Cable",
+      "description": "Durable USB-C charging and data transfer cable.",
+      "price": 9.99,
+      "category": "Accessories",
+      "stock": 500,
+      "image_url": "https://example.com/images/usb-c-cable.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Gaming Keyboard",
+      "description": "Mechanical RGB backlit gaming keyboard.",
+      "price": 69.99,
+      "category": "Electronics",
+      "stock": 100,
+      "image_url": "https://example.com/images/gaming-keyboard.jpg"
+    },
+    {
+      "id": 10,
+      "name": "External Hard Drive",
+      "description": "1TB external USB 3.0 hard drive for data storage.",
+      "price": 49.99,
+      "category": "Electronics",
+      "stock": 120,
+      "image_url": "https://example.com/images/external-hard-drive.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Office Chair",
+      "description": "Ergonomic office chair with lumbar support and adjustable arms.",
+      "price": 129.99,
+      "category": "Furniture",
+      "stock": 60,
+      "image_url": "https://example.com/images/office-chair.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Tablet Stand",
+      "description": "Adjustable stand for tablets and smartphones.",
+      "price": 15.99,
+      "category": "Accessories",
+      "stock": 250,
+      "image_url": "https://example.com/images/tablet-stand.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Fidget Spinner",
+      "description": "High-speed fidget spinner with ceramic bearings.",
+      "price": 5.99,
+      "category": "Toys",
+      "stock": 500,
+      "image_url": "https://example.com/images/fidget-spinner.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Phone Case",
+      "description": "Slim and protective phone case for iPhone 13.",
+      "price": 14.99,
+      "category": "Accessories",
+      "stock": 350,
+      "image_url": "https://example.com/images/phone-case.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Bluetooth Keyboard",
+      "description": "Wireless Bluetooth keyboard compatible with tablets and laptops.",
+      "price": 34.99,
+      "category": "Accessories",
+      "stock": 180,
+      "image_url": "https://example.com/images/bluetooth-keyboard.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Electric Toothbrush",
+      "description": "Rechargeable electric toothbrush with multiple modes.",
+      "price": 39.99,
+      "category": "Health & Beauty",
+      "stock": 220,
+      "image_url": "https://example.com/images/electric-toothbrush.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Sunglasses",
+      "description": "Polarized sunglasses with UV400 protection.",
+      "price": 19.99,
+      "category": "Accessories",
+      "stock": 150,
+      "image_url": "https://example.com/images/sunglasses.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Men's Watch",
+      "description": "Stylish leather band men's watch with quartz movement.",
+      "price": 79.99,
+      "category": "Accessories",
+      "stock": 100,
+      "image_url": "https://example.com/images/mens-watch.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Coffee Maker",
+      "description": "Single-serve coffee maker with a built-in grinder.",
+      "price": 89.99,
+      "category": "Home & Kitchen",
+      "stock": 85,
+      "image_url": "https://example.com/images/coffee-maker.jpg"
+    },
+    {
+      "id": 20,
+      "name": "Rice Cooker",
+      "description": "Electric rice cooker with automatic keep-warm feature.",
+      "price": 34.99,
+      "category": "Home & Kitchen",
+      "stock": 200,
+      "image_url": "https://example.com/images/rice-cooker.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Blender",
+      "description": "High-speed blender for smoothies and soups.",
+      "price": 79.99,
+      "category": "Home & Kitchen",
+      "stock": 150,
+      "image_url": "https://example.com/images/blender.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Yoga Mat",
+      "description": "Non-slip yoga mat with extra cushioning.",
+      "price": 25.99,
+      "category": "Sports & Outdoors",
+      "stock": 300,
+      "image_url": "https://example.com/images/yoga-mat.jpg"
+    },
+    {
+      "id": 23,
+      "name": "Camping Tent",
+      "description": "4-person camping tent with waterproof coating.",
+      "price": 129.99,
+      "category": "Sports & Outdoors",
+      "stock": 60,
+      "image_url": "https://example.com/images/camping-tent.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Hiking Backpack",
+      "description": "Durable hiking backpack with multiple compartments.",
+      "price": 49.99,
+      "category": "Sports & Outdoors",
+      "stock": 150,
+      "image_url": "https://example.com/images/hiking-backpack.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Smartphone Stand",
+      "description": "Adjustable stand for smartphones and small tablets.",
+      "price": 12.99,
+      "category": "Accessories",
+      "stock": 350,
+      "image_url": "https://example.com/images/smartphone-stand.jpg"
+    },
+    {
+      "id": 26,
+      "name": "E-Book Reader",
+      "description": "6-inch e-ink display e-book reader with adjustable light.",
+      "price": 119.99,
+      "category": "Electronics",
+      "stock": 95,
+      "image_url": "https://example.com/images/e-book-reader.jpg"
+    },
+    {
+      "id": 27,
+      "name": "Electric Kettle",
+      "description": "Cordless electric kettle with auto shut-off and boil-dry protection.",
+      "price": 39.99,
+      "category": "Home & Kitchen",
+      "stock": 220,
+      "image_url": "https://example.com/images/electric-kettle.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Laptop Stand",
+      "description": "Foldable laptop stand with adjustable height.",
+      "price": 22.99,
+      "category": "Accessories",
+      "stock": 200,
+      "image_url": "https://example.com/images/laptop-stand.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Hand Blender",
+      "description": "Cordless hand blender with detachable blades for easy cleaning.",
+      "price": 29.99,
+      "category": "Home & Kitchen",
+      "stock": 100,
+      "image_url": "https://example.com/images/hand-blender.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Gaming Mouse",
+      "description": "High-DPI gaming mouse with customizable RGB lighting.",
+      "price": 49.99,
+      "category": "Electronics",
+      "stock": 80,
+      "image_url": "https://example.com/images/gaming-mouse.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Wireless Charger",
+      "description": "Qi-certified wireless charger for fast charging.",
+      "price": 24.99,
+      "category": "Electronics",
+      "stock": 400,
+      "image_url": "https://example.com/images/wireless-charger.jpg"
+    },
+    {
+      "id": 32,
+      "name": "Phone Tripod",
+      "description": "Adjustable phone tripod for stable video recording.",
+      "price": 19.99,
+      "category": "Accessories",
+      "stock": 350,
+      "image_url": "https://example.com/images/phone-tripod.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Electric Grill",
+      "description": "Non-stick electric grill for indoor cooking.",
+      "price": 89.99,
+      "category": "Home & Kitchen",
+      "stock": 70,
+      "image_url": "https://example.com/images/electric-grill.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Tennis Racket",
+      "description": "Lightweight tennis racket with ergonomic handle.",
+      "price": 49.99,
+      "category": "Sports & Outdoors",
+      "stock": 100,
+      "image_url": "https://example.com/images/tennis-racket.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Smart Home Hub",
+      "description": "Central hub for controlling smart home devices.",
+      "price": 129.99,
+      "category": "Electronics",
+      "stock": 60,
+      "image_url": "https://example.com/images/smart-home-hub.jpg"
+    },
+    {
+      "id": 36,
+      "name": "Pet Bed",
+      "description": "Orthopedic pet bed for dogs and cats.",
+      "price": 39.99,
+      "category": "Pet Supplies",
+      "stock": 150,
+      "image_url": "https://example.com/images/pet-bed.jpg"
+    },
+    {
+      "id": 37,
+      "name": "Fitness Tracker",
+      "description": "Water-resistant fitness tracker with sleep monitoring.",
+      "price": 29.99,
+      "category": "Health & Beauty",
+      "stock": 200,
+      "image_url": "https://example.com/images/fitness-tracker.jpg"
+    },
+    {
+      "id": 38,
+      "name": "Leather Wallet",
+      "description": "Genuine leather wallet with multiple card slots.",
+      "price": 19.99,
+      "category": "Accessories",
+      "stock": 350,
+      "image_url": "https://example.com/images/leather-wallet.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Smart Light Bulb",
+      "description": "Wi-Fi enabled smart light bulb, compatible with Alexa and Google Assistant.",
+      "price": 14.99,
+      "category": "Electronics",
+      "stock": 400,
+      "image_url": "https://example.com/images/smart-light-bulb.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Water Bottle",
+      "description": "Stainless steel insulated water bottle.",
+      "price": 19.99,
+      "category": "Sports & Outdoors",
+      "stock": 250,
+      "image_url": "https://example.com/images/water-bottle.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Coffee Mug",
+      "description": "Ceramic coffee mug with custom design.",
+      "price": 12.99,
+      "category": "Home & Kitchen",
+      "stock": 500,
+      "image_url": "https://example.com/images/coffee-mug.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Electric Fan",
+      "description": "Portable electric fan with three speed settings.",
+      "price": 29.99,
+      "category": "Home & Kitchen",
+      "stock": 150,
+      "image_url": "https://example.com/images/electric-fan.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Aromatherapy Diffuser",
+      "description": "Ultrasonic aromatherapy diffuser with LED lights.",
+      "price": 39.99,
+      "category": "Health & Beauty",
+      "stock": 200,
+      "image_url": "https://example.com/images/aromatherapy-diffuser.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Photo Frame",
+      "description": "Wooden photo frame for 5x7 photos.",
+      "price": 9.99,
+      "category": "Home & Office",
+      "stock": 300,
+      "image_url": "https://example.com/images/photo-frame.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Desk Organizer",
+      "description": "Multi-compartment desk organizer with a sleek design.",
+      "price": 14.99,
+      "category": "Home & Office",
+      "stock": 250,
+      "image_url": "https://example.com/images/desk-organizer.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Power Bank",
+      "description": "10,000mAh portable power bank for smartphones and tablets.",
+      "price": 29.99,
+      "category": "Electronics",
+      "stock": 200,
+      "image_url": "https://example.com/images/power-bank.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Electric Shaver",
+      "description": "Cordless electric shaver with flexible head for precision trimming.",
+      "price": 49.99,
+      "category": "Health & Beauty",
+      "stock": 120,
+      "image_url": "https://example.com/images/electric-shaver.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Smart Door Lock",
+      "description": "Wi-Fi-enabled smart door lock with fingerprint recognition.",
+      "price": 179.99,
+      "category": "Home Improvement",
+      "stock": 60,
+      "image_url": "https://example.com/images/smart-door-lock.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Treadmill",
+      "description": "Folding treadmill with adjustable speed and incline.",
+      "price": 499.99,
+      "category": "Sports & Outdoors",
+      "stock": 30,
+      "image_url": "https://example.com/images/treadmill.jpg"
+    },
+    {
+      "id": 50,
+      "name": "Air Purifier",
+      "description": "HEPA filter air purifier for smoke, dust, and allergens.",
+      "price": 129.99,
+      "category": "Home & Kitchen",
+      "stock": 80,
+      "image_url": "https://example.com/images/air-purifier.jpg"
+    }
+  ]
+}
