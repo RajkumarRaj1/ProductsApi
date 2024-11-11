@@ -1,19 +1,31 @@
 const Express = require("express");
 const products = require("./products.json");
+const OrderCon = require("./control/Orders.control");
+const ProductCon = require("./control/Products.control");
+const RecipesCon = require("./control/Recipes.control");
 
 // ENVIRONMENT Variables config
 require("dotenv").config();
-
 
 const API_SERVER = Express();
 
 // serving static
 API_SERVER.use(Express.static("public"));
 
+// inject routers
+API_SERVER.use("/orders", OrderCon);
+API_SERVER.use("/products", ProductCon);
+API_SERVER.use("/recipes", RecipesCon);
+
+// ROUTE 1
 API_SERVER.get("/", function (req, res) {
   //   res.send("<h1>Express Server</h1>");
-  return res.json({ message: "Express Server" });
+  return res.json({
+    message: "hello node",
+    success: true,
+  });
 });
+
 // route2
 // path=/products
 // method=GET
